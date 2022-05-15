@@ -1,0 +1,1 @@
+//I'm going to make a website that is like a cookbook.  It's going to have an index.html that is the homepage.  It's going to have absolute and relative links. It's going to have some pictures.  I am modifying it now.
